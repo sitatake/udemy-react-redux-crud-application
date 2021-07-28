@@ -14,6 +14,7 @@ const App = () => {
     <Cat />
     <Cat />
     <Cat />
+    <Cat />
   </div>
 }
 
